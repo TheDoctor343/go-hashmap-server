@@ -6,7 +6,7 @@ This program demonstrates how go channels work.
 
 import (
 	"fmt"
-	"Wesley/concurrentmap"
+	"Wesley/go-hashmap-server/concurrentmap"
 	"time"
 	"strconv"
 	"math/rand"
